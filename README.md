@@ -21,7 +21,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeDev2020&show_icons=true&theme=tokyonight)
 <br>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31leflszwpws3o75jsltkbtlsodm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=0c86bb&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31leflszwpws3o75jsltkbtlsodm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=167ae3&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <h2>Estou só começando na minha jornada...</h2>
 
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/e7d2bd61228185.5a67a07360e75.gif">

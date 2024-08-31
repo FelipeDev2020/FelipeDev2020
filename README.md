@@ -11,7 +11,7 @@
 
   - 🚀 Estou em busca de oportunidades para aplicar minhas habilidades e crescer profissionalmente como Cientista de Dados em uma empresa inspiradora.
 </p>
-<p>---------------🏃--------------------------------------🏃------------------------------------------------------------🏃-----------------🏃-----------</p>
+<p>---------------🏃---------------------------------------------------------------------------------------------------------------🏃-----------</p>
 <br>
 <a href="https://www.linkedin.com/in/luis-felipe-xavier-veloso/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.kaggle.com/luisfelipe2345"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>

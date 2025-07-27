@@ -31,9 +31,9 @@
 <!-- Estatísticas do GitHub -->
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DFelipeDev2020%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="Estatísticas do GitHub de FelipeDev2020"/>
+<img src="https://github-readme-stats.vercel.app/api%3Fusername%3DFelipeDev2020%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="Estatísticas do GitHub de FelipeDev2020"/>
 <br>
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DFelipeDev2020%26layout%3Dcompact%26langs_count%3D7%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="Top Linguagens de FelipeDev2020"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DFelipeDev2020%26layout%3Dcompact%26langs_count%3D7%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="Top Linguagens de FelipeDev2020"/>
 </div>
 
 <!-- Seção de Habilidades -->

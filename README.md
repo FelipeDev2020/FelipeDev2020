@@ -28,6 +28,12 @@
 </a>
 </p>
 
+<!-- Texto sobre estatísticas -->
+
+<p align="center">
+Informações das estatisticas dos meus projetos
+</p>
+
 <!-- Estatísticas do GitHub -->
 
 <div align="center">
@@ -35,6 +41,12 @@
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeDev2020&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" alt="Top Linguagens de FelipeDev2020"/>
 </div>
+
+<!-- GIF do programador -->
+
+<p align="center">
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/e7d2bd61228185.5a67a07360e75.gif" alt="[Imagem de um programador no computador]" width="600">
+</p>
 
 <!-- Seção de Habilidades -->
 

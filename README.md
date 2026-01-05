@@ -21,15 +21,15 @@
 </p>
 
 <p align="center">
-  <strong>Estatísticas dos meus projetos</strong>
+  <strong>Minha Frequência de Código</strong>
 </p>
 
 <div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=FelipeDev2020&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub" />
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeDev2020&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" alt="Top Linguagens" />
-  </p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeDev2020&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
+  <br><br>
+  
+  <img src="https://github.com/FelipeDev2020/FelipeDev2020/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%">
 </div>
 
 <p align="center">

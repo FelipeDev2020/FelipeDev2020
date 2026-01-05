@@ -1,83 +1,66 @@
-<!-- Título Principal -->
-
-<div id="user-content-toc">
-<ul align="center">
-<summary><h1 style="display: inline-block">Olá, Mundo! Eu sou o Luis Felipe</h1></summary>
-</ul>
+<div align="center">
+  <h1>Olá, Mundo! Eu sou o Luis Felipe</h1>
 </div>
 
-<!-- Apresentação -->
-
 <p align="center">
-👋 Olá! Sou um Engenheiro de Software apaixonado por construir soluções robustas, escaláveis e de alta performance.
-<br><br>
-🚀 Minha jornada é focada em ecossistemas de nuvem e automação, com forte experiência no desenvolvimento de back-end utilizando <b>Java</b> e <b>Spring Boot</b>.
-<br><br>
-💡 Estou sempre em busca de oportunidades desafiadoras para aplicar minhas habilidades em infraestrutura como código (<b>Terraform</b>, <b>Docker</b>, <b>Kubernetes</b>) e contribuir para projetos inovadores em ambientes <b>AWS</b>.
+  👋 Olá! Sou um Engenheiro de Software em transição de carreira, focado no desenvolvimento de soluções back-end robustas e sistemas de gestão inteligentes.
+  <br><br>
+  🚀 Atualmente, estou me especializando no ecossistema <b>Java 21</b> e <b>Spring Boot 3.4+</b>, aplicando boas práticas de engenharia de software para criar APIs RESTful, seguras e documentadas.
+  <br><br>
+  💡 Meu foco é construir sistemas administrativos ("Intelligent CRUDs") para pequenos negócios, utilizando tecnologias modernas como <b>Docker</b>, <b>Flyway</b> para migrações de banco e testes automatizados com <b>JUnit 5</b>.
 </p>
 
-<!-- Links Sociais e Contato -->
-
 <p align="center">
-<a href="https://www.linkedin.com/in/luis-felipe-xavier-veloso/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-&nbsp;
-<a href="mailto:luisfelipexv20@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
+  <a href="https://www.linkedin.com/in/luis-felipe-xavier-veloso/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  &nbsp;
+  <a href="mailto:luisfelipexv20@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
 </p>
 
-<!-- Texto sobre estatísticas -->
-
 <p align="center">
-Informações das estatisticas dos meus projetos
+  <strong>Estatísticas dos meus projetos</strong>
 </p>
-
-<!-- Estatísticas do GitHub -->
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=FelipeDev2020&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de FelipeDev2020"/>
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeDev2020&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" alt="Top Linguagens de FelipeDev2020"/>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=FelipeDev2020&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub" />
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeDev2020&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" alt="Top Linguagens" />
+  </p>
 </div>
 
-<!-- GIF do programador -->
-
 <p align="center">
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/e7d2bd61228185.5a67a07360e75.gif" alt="[Imagem de um programador no computador]" width="600">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/e7d2bd61228185.5a67a07360e75.gif" alt="Coding GIF" width="600">
 </p>
-
-<!-- Seção de Habilidades -->
-
-<div id="user-content-toc" style="margin-top: 30px;">
-<ul align="center">
-<summary><h2 style="display: inline-block">🚀 Habilidades & Ferramentas</h2></summary>
-</ul>
-</div>
-
-<!-- Ícones das Tecnologias -->
-
-<p align="center">
-<!-- Linguagens e Frameworks -->
-<img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
-<img align="center" alt="Spring" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">
-&nbsp;&nbsp;&nbsp;
-<!-- Infraestrutura e DevOps -->
-<img align="center" alt="AWS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-<img align="center" alt="Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
-<img align="center" alt="Kubernetes" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg">
-<img align="center" alt="Terraform" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg">
-&nbsp;&nbsp;&nbsp;
-<!-- Mensageria e Ferramentas -->
-<img align="center" alt="Kafka" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original-wordmark.svg">
-<img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-</p>
-
-<!-- Spotify -->
 
 <div align="center" style="margin-top: 30px;">
-<a href="https://github.com/kittinan/spotify-github-profile">
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31leflszwpws3o75jsltkbtlsodm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=167ae3&bar_color_cover=false" alt="Perfil do Spotify">
-</a>
+  <h2>🚀 Habilidades & Ferramentas</h2>
+</div>
+
+<p align="center">
+  <img align="center" alt="Java 21" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Spring Boot" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  &nbsp;&nbsp;&nbsp;
+  
+  <img align="center" alt="PostgreSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Hibernate" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg">
+  &nbsp;&nbsp;&nbsp;
+
+  <img align="center" alt="Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="JUnit5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg">
+  <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white" alt="Flyway">
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger">
+</p>
+
+<div align="center" style="margin-top: 30px;">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31leflszwpws3o75jsltkbtlsodm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=167ae3&bar_color_cover=false" alt="Spotify Profile">
+  </a>
 </div>
